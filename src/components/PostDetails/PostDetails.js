@@ -13,7 +13,7 @@ const PostDetails = () => {
     return (
     
         <div>
-            <h4 className='font-bold text-2xl text-green-900 text-center bg-green-200 py-2'>Post Details</h4>
+            
             <h2 className='font-bold text-2xl text-green-600'>{post.id}</h2>
             <h5 className='font-bold text-xl'>{post.title}</h5>
             <p>{ post.body}</p>

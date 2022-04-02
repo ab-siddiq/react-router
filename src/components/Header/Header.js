@@ -4,8 +4,8 @@ import CustomLink from '../CustomLink/CustomLink';
 const Header = () => {
     return (
         <div>
-            <nav>
-                <CustomLink to="/">Home</CustomLink>
+            <nav className='flex bg-green-900 text-green-300 justify-evenly py-3'>
+                <CustomLink  to="/">Home</CustomLink>
                 <CustomLink to="/friends">Friends</CustomLink>
                 <CustomLink to="/posts">Posts</CustomLink>
                 <CustomLink to="/countries">Countries</CustomLink>
