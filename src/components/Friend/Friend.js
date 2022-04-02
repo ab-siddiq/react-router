@@ -10,7 +10,7 @@ const Friend = (props) => {
     }
     
     return (
-        <div className="bg-green-500 m-6 text-left px-3 py-5 rounded text-green-200 ">
+        <div className="bg-green-500 m-6 text-left px-3 py-5  rounded text-green-200 ">
             <div className="flex items-center justify-center ">
                 <img src="https://via.placeholder.com/600/92c952" alt="" className="w-20 h-20 rounded-full  -top-10 relative" />
             </div>
