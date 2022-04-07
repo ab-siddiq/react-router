@@ -13,7 +13,7 @@ import Posts from './components/Posts/Posts';
 
 function App() {
   return (
-    <div className="App">
+    <div className="">
       <Header></Header>
       <Routes>
         <Route path='/' element={<Home />}></Route>
