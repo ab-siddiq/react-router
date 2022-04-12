@@ -3,9 +3,9 @@ import React from 'react';
 const Country = ({country}) => {
    console.log(country)
     return (
-        <div className=" mt-10">
-            <p className=' text-center text-4xl font-mono font-bold'>Country Details</p>
-            <div className='grid lg:grid-cols-2 md:grid-cols-1 justify-evenly items-center mt-5  mx-auto py-20 lg:px-4 sm:px-1 border-2 lg:w-2/3 sm:w-full sm:mx-3'>
+        <div className=" m-10">
+            <p className=' text-center text-4xl font-mono font-bold mb-5'>Country Details</p>
+            <div className='grid lg:grid-cols-2 md:grid-cols-1 justify-evenly items-center m-auto  mx-auto py-20 lg:px-4 sm:px-1 border-2 lg:w-2/3 sm:w-full '>
             
                 <div className="bg-grey-200 mr-10 md:mx-auto">
                 

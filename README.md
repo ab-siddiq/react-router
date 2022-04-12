@@ -6,5 +6,5 @@
 - `React Router` to navigate pages
 - [Rest Countries API](https://restcountries.com/) to show different country
 - [json placeholder](https://jsonplaceholder.typicode.com/) api to show users and comments
-- `React Hook` for state management and fetch api
+- `React Hook` for state management and fetch api 
 
